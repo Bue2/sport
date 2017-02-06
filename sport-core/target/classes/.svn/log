@@ -1,0 +1,17 @@
+<modify-entry
+   committed-rev="2686"
+   last-author="user"
+   name="application-context.xml"
+   committed-date="2017-01-17T12:48:34.112284Z"/>
+<modify-entry
+   checksum="4dd6e59ea0fac80f55ef0978beefe840"
+   name="application-context.xml"/>
+<delete-changelist
+   name="application-context.xml"/>
+<committed
+   name="application-context.xml"
+   revision="2686"/>
+<modify-wcprop
+   name="application-context.xml"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/babasport/!svn/ver/2686/branches/09/yhn/sport-parent/sport-core/src/main/java/application-context.xml"/>

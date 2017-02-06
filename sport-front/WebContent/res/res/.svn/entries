@@ -1,0 +1,54 @@
+10
+
+dir
+2687
+https://quan-pc:8443/svn/babasport/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res
+https://quan-pc:8443/svn/babasport
+
+
+
+2017-01-17T12:50:31.842449Z
+2687
+user
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+91ecc861-e575-8549-b569-826440435a61
+
+
+
+
+
+
+0
+empty
+
+common
+dir
+
+css
+dir
+
+fckeditor
+dir
+
+img
+dir
+
+itcast
+dir
+
+js
+dir
+

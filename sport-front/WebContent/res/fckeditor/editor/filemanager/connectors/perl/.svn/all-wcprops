@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl
+END
+commands.pl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/commands.pl
+END
+basexml.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/basexml.pl
+END
+connector.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/connector.cgi
+END
+io.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/io.pl
+END
+config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/config.pl
+END
+upload.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/upload.cgi
+END
+util.pl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/util.pl
+END
+upload_fck.pl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/babasport/!svn/ver/2687/branches/09/yhn/sport-parent/sport-front/WebContent/WEB-INF/res/fckeditor/editor/filemanager/connectors/perl/upload_fck.pl
+END
